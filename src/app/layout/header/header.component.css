@@ -1,0 +1,54 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    height: 12vh;
+    background-color: azure;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+/*
+header {
+  width: 100%;
+  background-color: rgb(229, 202, 255);
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 20vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+}
+
+
+
+*/
+
+
+.nav-bar{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: 45%;
+ 
+}
+
+.nav-end{
+    margin-left: 30px;
+ 
+}
+
+.link{
+    margin-left: 50px;
+    text-decoration: none;
+    color: chocolate;
+}
