@@ -18,8 +18,8 @@ font-family: 'Licorice', cursive;*/
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
-    height: 13vh;
+    justify-content: space-around;
+    height: 15vh;
     background-color: #003366;
     position: fixed;
     top: 0;
@@ -35,7 +35,7 @@ font-family: 'Licorice', cursive;*/
 
 .search{
     width: 600px;
-    margin-right: 5%;
+    
 }
 
 .nav-bar{
@@ -43,7 +43,6 @@ font-family: 'Licorice', cursive;*/
     flex-direction: row;
     justify-content: flex-end;
     align-items: center;
-    margin-left: 100px;
     font-family: 'Cinzel', serif;
  
 }
